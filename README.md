@@ -6,3 +6,4 @@
 
 [Golang 学习笔记]()  
 [K8s]()  
+- [k8s gateway vs ingress](k8s/k8s_gateway_vs_ingress.md)
